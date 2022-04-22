@@ -1,0 +1,14 @@
+body {
+  background-image: url("../img/tugas.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+ div {
+   background-color: white;
+   height: 650px;
+   width: 50%;
+   text-align: right;
+   float: right;
+   font-weight: bold;
+ }
